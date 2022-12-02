@@ -21,8 +21,9 @@ jobs:
         uses: cloudac7/metrics@latest
         with:
           filename: assets/metrics.plugin.anilist.manga.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_anilist: yes
           plugin_anilist_medias: manga
           plugin_anilist_sections: favorites, reading
-          plugin_anilist_limit: 1
+          plugin_anilist_limit: 2
