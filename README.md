@@ -1,5 +1,4 @@
-<img align="left" src="assets/github-metrics.svg" alt="Metrics" width="390">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cloudac7" alt="Metrics" width="390">
+<img align="right" src="assets/github-metrics.svg" alt="Metrics" width="390">
 
 I’m [Futaki Haduki](https://github.com/Cloudac7)(二木葉月), a graduate student of Xiamen University, now working for my PhD. project.
 
@@ -11,4 +10,5 @@ I’m [Futaki Haduki](https://github.com/Cloudac7)(二木葉月), a graduate stu
 - 🌱 Also interested in ACGN. For example, Yuri, Kirara and so on ...
 - 📫 Email: scottryuu@outlook.com
 
-<img src="assets/metrics.plugin.anilist.manga.svg" alt="Metrics"">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=cloudac7" alt="Metrics" width="390">
+<img align="right" src="assets/metrics.plugin.anilist.manga.svg" alt="Metrics" width="390">
