@@ -1,4 +1,4 @@
-## Here's Futaki Haduki ☁️
+## Here's Futaki Haduki ☁
 
 <img align="right" src="assets/github-metrics.svg" alt="Metrics" width="390">
 
@@ -9,10 +9,11 @@ Hello, I'm [Futaki Haduki](https://github.com/Cloudac7)(二木葉月).
 
 - 🇨🇳 Ph.D student of Xiamen University (2019-)
 - 🇨🇳 BSc student of Xiamen University (2015-2019)
-- 🔭 I’m currently working on field of computational chemistry. 
+- 🔭 Currently working on computational chemistry.
 - 💻 Now insterested in machine learning based molecular dynamics.
 - 🌱 Also interested in ACGN. For example, Yuri manga (including Kirara).
 - 🎮 Now a player of [HEAVEN BURNS RED](https://heaven-burns-red.com).
+- 🌟 Fan of [Asteroid in Love (恋する小惑星)](http://koiastv.com/)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=cloudac7" alt="Metrics" width="390">
 <img align="right" src="assets/metrics.plugin.anilist.manga.svg" alt="Metrics" width="390">
