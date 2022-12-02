@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am [Cloudac7](https://github.com/Cloudac7), a graduate student of Xiamen University, now working for my PhD. project.
+I’m [Futaki Haduki](https://github.com/Cloudac7)(二木葉月), a graduate student of Xiamen University, now working for my PhD. project.
 
 <!--
 **Cloudac7/Cloudac7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,3 +9,5 @@ I am [Cloudac7](https://github.com/Cloudac7), a graduate student of Xiamen Unive
 - 🔭 I’m currently working on computational chemistry. Especially insterested in machine learning based molecular dynamics.
 - 🌱 Also interested in ACGN. For example, Yuri, Kirara and so on ...
 - 📫 Email: scottryuu@outlook.com
+
+[![Cloudac7's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudac7)](https://github.com/anuraghazra/github-readme-stats)
