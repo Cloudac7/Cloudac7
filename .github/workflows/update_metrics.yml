@@ -17,8 +17,12 @@ jobs:
           filename: assets/github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
-          plugin_habits: yes
-          plugin_habits_facts: no
-          plugin_habits_charts: yes
-          config_timezone: Asia/Shanghai
-          
+      - name: Favorites manga and currently reading
+        uses: cloudac7/metrics@latest
+        with:
+          filename: assets/metrics.plugin.anilist.manga.svg
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_medias: manga
+          plugin_anilist_sections: favorites, reading
+          plugin_anilist_limit: 1
