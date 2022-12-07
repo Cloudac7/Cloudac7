@@ -16,4 +16,4 @@ Hello, I'm [Futaki Haduki](https://github.com/Cloudac7)(二木葉月).
 - 🌟 Fan of [Asteroid in Love (恋する小惑星)](http://koiastv.com/)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=cloudac7" alt="Metrics" width="390">
-<img align="right" src="assets/metrics.plugin.anilist.manga.svg" alt="Metrics" width="390">
+[<img align="right" src="assets/metrics.plugin.anilist.manga.svg" alt="Metrics" width="390">](https://anilist.co/user/Cloudac7/)
