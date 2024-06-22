@@ -12,7 +12,7 @@ Hello, I'm [Futaki Haduki](https://github.com/Cloudac7)(二木葉月).
 - 🔭 Currently working on computational chemistry.
 - 💻 Now insterested in machine learning based molecular dynamics.
 - 🌱 Also interested in ACGN. For example, Yuri manga (including Kirara).
-- 💡 [Why did we play Haruhikage!!!!?](https://anime.bang-dream.com/mygo/)
+- 💡 [なんで春日影やったの!!!!?](https://anime.bang-dream.com/mygo/)
 - 🎮 Now a player of [HEAVEN BURNS RED](https://heaven-burns-red.com).
 - 🌟 Fan of [Asteroid in Love (恋する小惑星)](http://koiastv.com/)
 
