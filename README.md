@@ -7,7 +7,8 @@
 
 Hello, I'm [Futaki Haduki](https://github.com/Cloudac7)(二木葉月).
 
-- 🇨🇳 Ph.D student of Xiamen University (2019-)
+- Engineer in IKKEM (2024-)
+- 🇨🇳 Ph.D student of Xiamen University (2019-2024)
 - 🇨🇳 BSc student of Xiamen University (2015-2019)
 - 🔭 Currently working on computational chemistry.
 - 💻 Now insterested in machine learning based molecular dynamics.
