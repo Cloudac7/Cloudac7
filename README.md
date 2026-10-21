@@ -7,10 +7,11 @@
 
 Hello, I'm [Futaki Haduki](https://github.com/Cloudac7)(二木葉月).
 
+- Solutions Engineer, QBoson (Now)
+- Solutions Specialist - Industrial Key Account, Smartlogic Tech (2025-2026)
 - Engineer in IKKEM (2024-2025)
 - 🇨🇳 Ph.D student of Xiamen University (2019-2024)
 - 🇨🇳 BSc student of Xiamen University (2015-2019)
-- 🔭 Currently working on computational chemistry.
 - 💻 Now insterested in machine learning based molecular dynamics.
 - 🌱 Also interested in ACGN. For example, Yuri manga (including Kirara).
 - 💡 [なんで春日影やったの!!!!?](https://anime.bang-dream.com/mygo/)
