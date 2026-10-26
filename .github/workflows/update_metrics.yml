@@ -18,7 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
       - name: Favorites manga and currently reading
-        uses: cloudac7/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
           filename: assets/metrics.plugin.anilist.manga.svg
           token: ${{ secrets.METRICS_TOKEN }}
