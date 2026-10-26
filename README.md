@@ -18,5 +18,5 @@ Hello, I'm [Futaki Haduki](https://github.com/Cloudac7)(二木葉月).
 - 🎮 Now a player of [HEAVEN BURNS RED](https://heaven-burns-red.com).
 - 🌟 Fan of [Asteroid in Love (恋する小惑星)](http://koiastv.com/)
 
-<a href="https://anilist.co/user/Cloudac7/"><img align="left" src="https://github-profile-trophy.vercel.app/?username=Cloudac7&row=2&column=3"></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="left" src="https://trophygh.kolioaris.xyz/?username=Cloudac7&row=2&column=3"></a>
 <a href="https://anilist.co/user/Cloudac7/"><img align="right" src="assets/metrics.plugin.anilist.manga.svg" alt="Metrics" width="390"></a>
